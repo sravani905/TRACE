@@ -1,0 +1,8 @@
+{
+  "name": "TRACE",
+  "description": "A tactile investigative mystery game where players inspect case documents, analyze LED lightbox ledgers, pin evidence on a corkboard, and debrief anomalous process IDs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
